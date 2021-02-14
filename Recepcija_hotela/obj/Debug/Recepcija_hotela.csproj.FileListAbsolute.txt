@@ -1,0 +1,25 @@
+C:\Users\Marija\Documents\GitHub\16052\r16052\Recepcija_hotela\Recepcija_hotela\bin\Debug\Recepcija_hotela.exe.config
+C:\Users\Marija\Documents\GitHub\16052\r16052\Recepcija_hotela\Recepcija_hotela\bin\Debug\Recepcija_hotela.exe
+C:\Users\Marija\Documents\GitHub\16052\r16052\Recepcija_hotela\Recepcija_hotela\bin\Debug\Recepcija_hotela.pdb
+C:\Users\Marija\Documents\GitHub\16052\r16052\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.csprojResolveAssemblyReference.cache
+C:\Users\Marija\Documents\GitHub\16052\r16052\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.FormIzbornik.resources
+C:\Users\Marija\Documents\GitHub\16052\r16052\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.Prijava.resources
+C:\Users\Marija\Documents\GitHub\16052\r16052\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.FormPrijaviSe.resources
+C:\Users\Marija\Documents\GitHub\16052\r16052\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.FormRezervacija.resources
+C:\Users\Marija\Documents\GitHub\16052\r16052\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.Properties.Resources.resources
+C:\Users\Marija\Documents\GitHub\16052\r16052\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.csproj.GenerateResource.Cache
+C:\Users\Marija\Documents\GitHub\16052\r16052\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.exe
+C:\Users\Marija\Documents\GitHub\16052\r16052\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.pdb
+E:\Marija\Faks\FOI 3. godina\6. semestar\PI\Projects\Recepcija_hotela\Recepcija_hotela\bin\Debug\Recepcija_hotela.exe.config
+E:\Marija\Faks\FOI 3. godina\6. semestar\PI\Projects\Recepcija_hotela\Recepcija_hotela\bin\Debug\Recepcija_hotela.exe
+E:\Marija\Faks\FOI 3. godina\6. semestar\PI\Projects\Recepcija_hotela\Recepcija_hotela\bin\Debug\Recepcija_hotela.pdb
+E:\Marija\Faks\FOI 3. godina\6. semestar\PI\Projects\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.csprojAssemblyReference.cache
+E:\Marija\Faks\FOI 3. godina\6. semestar\PI\Projects\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.FormIzbornik.resources
+E:\Marija\Faks\FOI 3. godina\6. semestar\PI\Projects\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.Prijava.resources
+E:\Marija\Faks\FOI 3. godina\6. semestar\PI\Projects\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.FormPrijaviSe.resources
+E:\Marija\Faks\FOI 3. godina\6. semestar\PI\Projects\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.FormRezervacija.resources
+E:\Marija\Faks\FOI 3. godina\6. semestar\PI\Projects\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.Properties.Resources.resources
+E:\Marija\Faks\FOI 3. godina\6. semestar\PI\Projects\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.csproj.GenerateResource.cache
+E:\Marija\Faks\FOI 3. godina\6. semestar\PI\Projects\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.csproj.CoreCompileInputs.cache
+E:\Marija\Faks\FOI 3. godina\6. semestar\PI\Projects\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.exe
+E:\Marija\Faks\FOI 3. godina\6. semestar\PI\Projects\Recepcija_hotela\Recepcija_hotela\obj\Debug\Recepcija_hotela.pdb
